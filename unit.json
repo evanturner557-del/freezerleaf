@@ -1,0 +1,41 @@
+{
+  "unit_id": "LOCAL-BATCH1-FREEZERLEAF",
+  "name": "Freezer inventory printable and meal planner",
+  "public_name": "Freezerleaf",
+  "slug": "freezerleaf",
+  "site_dir": "/workspace/sites-new/freezerleaf",
+  "public_domains": [],
+  "user_go": null,
+  "checkout_mode": "none",
+  "checkoutMode": "none",
+  "email": "localreply+freezerleaf@agentmail.to",
+  "stage": "LOCAL_DRAFT",
+  "type": "digital",
+  "status_label": "LOCAL ONLY / coming soon / not for sale",
+  "offer": {
+    "audience": "UK households who plan meals from the freezer",
+    "offer": "A freezer inventory printable and meal-planning pack. See your portions, choose meals and list the gaps.",
+    "pricing": [
+      {
+        "price": "\u00a34 one-off (planned)",
+        "status": "planned/draft"
+      }
+    ],
+    "limits": "An organisation pack, not recipes, nutrition or food-safety advice. Follow packaging and current Food Standards Agency guidance; a date on a planner does not prove food is safe."
+  },
+  "trader_name": null,
+  "trader_address": null,
+  "spend_gbp": 0,
+  "publish": {
+    "status": "NOT_PUBLISHED"
+  },
+  "inbox": {
+    "address": "localreply+freezerleaf@agentmail.to",
+    "status": "plus-address; delivery not independently tested"
+  },
+  "name_check": {
+    "date": "2026-11-08",
+    "method": "Exact-name public web search only",
+    "result": "No obvious same-name commercial conflict in returned results; not trademark clearance"
+  }
+}
